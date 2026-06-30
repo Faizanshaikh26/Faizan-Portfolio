@@ -131,7 +131,7 @@ $(function(){
 			
 			$.ajax({
 			
-				url: 'mail.php',
+				url: '/api/contact',
 				type: 'post',
 				data: $this.serialize(),
 				success: function(data){

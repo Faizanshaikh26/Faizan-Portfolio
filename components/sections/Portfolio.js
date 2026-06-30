@@ -47,6 +47,20 @@ const portfolioItems = [
     groups: ["all", "web-apps"],
     hasPopup: true,
   },
+  {
+    title: "Execify",
+    img: "/img/execify-placeholder.jpg",
+    link: "/execify-work",
+    groups: ["all", "web-apps"],
+    hasPopup: true,
+  },
+  {
+    title: "LegalBharat",
+    img: "/img/legalbharat-placeholder.jpg",
+    link: "/legalbharat-work",
+    groups: ["all", "web-apps"],
+    hasPopup: true,
+  },
 ];
 
 export default function Portfolio() {
